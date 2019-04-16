@@ -64,7 +64,7 @@ class ApostekNearestElement{
         }
        
 
-        // Write your code here
+        // Test from office
 
     }
 }
